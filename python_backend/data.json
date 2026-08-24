@@ -1,0 +1,26 @@
+{
+  "name": "Deepthi Mayilat",
+  "title": "Test Engineer | Mainframe Developer | Project Manager",
+  "location": "Lund, Sweden",
+  "experience_years": "12+ years",
+  "professional_summary": "I have built a strong 12-year career across QA testing, mainframe development, and project/release management in embedded systems, IoT, and software for web and mobile applications. I enjoy turning complex challenges into successful outcomes by combining technical expertise, quality-driven delivery, and strong stakeholder collaboration.",
+  "background": [
+    "QA Testing (Functional, Regression, UAT, Sanity, IoT, Embedded, HIL)",
+    "Mainframe Development (COBOL, JCL, CICS, IMS/DB2, MQ)",
+    "Project & Release Management (Agile Scrum, Stakeholder Coordination)",
+    "Web & Mobile Development (React.js, HTML/CSS/JS, Swift)"
+  ],
+  "education": [
+    "Bachelor of Computer Applications – Annamalai University, India",
+    "Diploma in Computer Engineering – NTTF, India",
+    "Course in Leading Change: Accelerating AI Adoption – Jönköping University, Sweden",
+    "Certifications: ISTQB, Agile, Digital Marketing, IBM DB2 Fundamentals"
+  ],
+  "hobbies": [
+    "Learning new technologies",
+    "Professional development",
+    "Process improvement",
+    "Exploring multicultural teamwork",
+    "Adapting to new domains"
+  ]
+}
