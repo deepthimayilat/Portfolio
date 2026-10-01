@@ -1,0 +1,77 @@
+{
+    "name": "DEEPTHI MAYILAT",
+    "title": "Software Test Engineer | Software Developer | Release & Delivery Lead",
+    "location": "Lund, Sweden",
+    "email": "deepthimayilat@gmail.com",
+    "linkedin": "linkedin.com/in/deepthimayilat",
+    "work_permit": "Authorised to work in Sweden (Immediate Availability)",
+    "languages": "English (Fluent), Swedish (Beginner), Malayalam (Native), Tamil (Advanced), German (A2)",
+    "summary": "Dynamic Software Test Engineer with 12 years of rich cross-functional experience bridging software development, rigorous QA validation, release management, and Agile delivery leadership. Currently executing end-to-end verification of IoT-enabled commercial systems inside an advanced R&D laboratory, specializing in Hardware-in-the-Loop (HIL) ecosystems, firmware flashing, and low-level embedded diagnostics. Combines an early 6-year background in deep technical Mainframe infrastructure development with modern web/mobile automation testing within strictly regulated medical device and financial domains.",
+    "skills": {
+        "Programming & Foundations": ["COBOL", "JCL", "CICS", "IMS/DB2", "VSAM", "JavaScript", "HTML5", "CSS3", "XML", "SQL"],
+        "Embedded & IoT Hardware Testing": ["Hardware in the Loop (HIL)", "Firmware Flashing", "Embedded Diagnostics", "UART & Serial Debugging", "PuTTY", "Sensor Telemetry", "Machine-to-Cloud Validation", "Accelerated Life Testing"],
+        "Automation, Test & API Tools": ["TestRail", "Cypress", "Xray-JIRA", "YouTrack", "Postman", "SOAP UI", "TestFlight", "Simulators"],
+        "DevOps & Platforms": ["GitHub", "Bitbucket", "IBM UrbanCode Deploy", "Gearset", "Octopus Deploy", "Salesforce", "ServiceNow", "Power BI", "Duck Creek", "MySQL"]
+    },
+    "experience": [
+        {
+            "role": "Software Test Engineer",
+            "company": "Electrolux Professional AB (via Maandag Nordic AB)",
+            "location": "Ljungby, Sweden",
+            "period": "June 2026 - Present",
+            "bullets": [
+                "Architect and execute end-to-end operational verification matrixes for mission-critical commercial appliance systems inside R&D lab spaces.",
+                "Validate fluid intake, advanced drainage cycles, and complex thermal profiles against strict energy reduction targets.",
+                "Execute rigorous firmware stability testing across machine control units, performing flashing, board-level configurations, and telemetry tracking.",
+                "Analyze deep telemetry logs, UART traces, and wireless transport layers to confirm absolute compliance with global cloud architectures."
+            ]
+        },
+        {
+            "role": "QA Tester and Release Specialist",
+            "company": "Arjo AB (via Academic Work)",
+            "location": "Malmo, Sweden",
+            "period": "January 2025 - June 2026",
+            "bullets": [
+                "Led automated QA validation and complex production release paths for patient-handling medical hardware, ensuring compliance with global clinical safety rules.",
+                "Authored comprehensive regression, sanity, and UAT verification protocols across dedicated iOS systems and custom Salesforce backends.",
+                "Parsed intricate system crash logs and device telemetry vectors to debug hardware-software edge case inconsistencies."
+            ]
+        },
+        {
+            "role": "Delivery Lead",
+            "company": "Winnopro Technologies (Remote)",
+            "location": "Germany",
+            "period": "December 2020 - September 2022",
+            "bullets": [
+                "Managed high-velocity end-to-end delivery pipelines for multi-million user web and mobile products across sports, e-commerce, and healthcare sectors.",
+                "Directed cross-functional agile teams, engineered robust manual-to-automation test strategies, and facilitated client alignments globally."
+            ]
+        },
+        {
+            "role": "Senior Software Developer",
+            "company": "Allstate",
+            "location": "India",
+            "period": "September 2016 - October 2020",
+            "bullets": [
+                "Engineered complex enterprise rating engine subsystems using COBOL, JCL, CICS Web Services, and Duck Creek environments.",
+                "Automated critical security scanning workflows, removing manual operational developer overhead by 35 percent.",
+                "Acted as primary regional tier-3 engineering support anchor, troubleshooting core transactional production incidents under tight SLA frameworks."
+            ]
+        }
+    ],
+    "education": [
+        "Course in Leading Change: Accelerating AI Adoption — Jönköping University, Sweden",
+        "Bachelor of Computer Applications — Annamalai University, India",
+        "Diploma in Computer Engineering — Nettur Technical Training Foundation, India"
+    ],
+    "certifications": [
+        "JIRA Product Management and Project Management (Great Learning)",
+        "IBM DB2 Fundamentals (IBM)",
+        "Fundamentals of Digital Marketing (Google)"
+    ],
+    "awards": [
+        "ABCC (AnyBody Can Code) Winner - Mainframe Programming (Allstate India)",
+        "Quarterly Standing Ovation & Star of the Month (3x Recipient, Allstate India)",
+        "Eagle Team Award (L&T Infotech)"
+    ]
+}

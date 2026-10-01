@@ -1,0 +1,7 @@
+# Dart/Flutter lint rules are not available for this project configuration.
+# Use project-local analyzer settings instead of an unavailable package include.
+
+linter:
+  rules:
+    - prefer_const_constructors
+    - prefer_const_literals_to_create_immutables
