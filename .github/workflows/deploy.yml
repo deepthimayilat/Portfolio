@@ -27,7 +27,9 @@ jobs:
       - run: flutter pub get
 
       # 5. Compile the application into high-performance web static assets
-      - run: flutter build web --release --web-renderer canvaskit
+            # 5. Compile the application into high-performance web static assets
+      - run: flutter build web --release --web-renderer=canvaskit
+
 
       # 6. Install the Firebase CLI directly on the machine and deploy
       - name: Install Firebase CLI and Deploy
