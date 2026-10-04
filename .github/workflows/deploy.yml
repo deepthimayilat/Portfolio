@@ -12,7 +12,7 @@ jobs:
       # 1. Pull down your project files
       - uses: actions/checkout@v4
 
-      # 2. Boot up the stable Node.js engine to run firebase commands
+      # 2. Boot up the stable Node.js engine
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -23,13 +23,13 @@ jobs:
           channel: 'stable'
           cache: true
 
-      # 4. Pull Flutter package dependencies
+      # 4. Pull package dependencies
       - run: flutter pub get
 
-      # 5. Compile the application into high-performance web static assets
-            # 5. Compile the application into high-performance web static assets
-      - run: flutter build web --release --web-renderer=canvaskit
-
+      # 5. Force regenerate web entry points and build the clean production assets
+      - run: |
+          flutter create . --platforms=web
+          flutter build web --release
 
       # 6. Install the Firebase CLI directly on the machine and deploy
       - name: Install Firebase CLI and Deploy
