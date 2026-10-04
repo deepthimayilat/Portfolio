@@ -12,22 +12,25 @@ jobs:
       # 1. Pull down your project files
       - uses: actions/checkout@v4
 
-      # 2. Boot up the stable Flutter compiler environment
+      # 2. Boot up the stable Node.js engine to run firebase commands
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # 3. Boot up the stable Flutter compiler environment
       - uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
           cache: true
 
-      # 3. Pull package dependencies
+      # 4. Pull Flutter package dependencies
       - run: flutter pub get
 
-      # 4. Compile the application into high-performance web static assets
+      # 5. Compile the application into high-performance web static assets
       - run: flutter build web --release --web-renderer canvaskit
 
-      # 5. Push compiled artifacts live using your active Firebase login token
-      - name: Deploy to Firebase Hosting
-        uses: uses: w9jds/firebase-action@master
-        with:
-          args: deploy --only hosting
-        env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+      # 6. Install the Firebase CLI directly on the machine and deploy
+      - name: Install Firebase CLI and Deploy
+        run: |
+          npm install -g firebase-tools
+          firebase deploy --only hosting --token "${{ secrets.FIREBASE_TOKEN }}"
