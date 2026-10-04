@@ -26,7 +26,7 @@ jobs:
 
       # 5. Push compiled artifacts live using your active Firebase login token
       - name: Deploy to Firebase Hosting
-        uses: w9jds/firebase-action@v2.6.0
+        uses: uses: w9jds/firebase-action@master
         with:
           args: deploy --only hosting
         env:
