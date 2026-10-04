@@ -20,8 +20,8 @@
             "location": "Ljungby, Sweden",
             "period": "June 2026 - Present",
             "bullets": [
-                "Architect and execute end-to-end operational verification matrixes for mission-critical commercial appliance systems inside R&D lab spaces.",
-                "Validate fluid intake, advanced drainage cycles, and complex thermal profiles against strict energy reduction targets.",
+                "Execute end-to-end operational verification matrixes for mission-critical commercial appliance systems inside R&D lab spaces.",
+                "Validate fluid intake, advanced drainage cycles, and thermal profiles against strict energy reduction targets.",
                 "Execute rigorous firmware stability testing across machine control units, performing flashing, board-level configurations, and telemetry tracking.",
                 "Analyze deep telemetry logs, UART traces, and wireless transport layers to confirm absolute compliance with global cloud architectures."
             ]
@@ -57,6 +57,17 @@
                 "Automated critical security scanning workflows, removing manual operational developer overhead by 35 percent.",
                 "Acted as primary regional tier-3 engineering support anchor, troubleshooting core transactional production incidents under tight SLA frameworks."
             ]
+        },
+        {
+            "role": "Software Associate",
+            "company": "Larsen and Toubro Infotech",
+            "location": "India",
+            "period": "June 2014 - September 2016",
+            "bullets": [
+                "Delivered development, QA, documentation and project delivery for client Ingram Micro across finance, order to cash and procure to pay workstreams.",
+                "Built and maintained Mainframe applications in COBOL, CICS, JCL and IMS/DB2 and supported migration and release activities across India, the US and APAC."
+              
+            ]
         }
     ],
     "education": [
@@ -65,6 +76,7 @@
         "Diploma in Computer Engineering — Nettur Technical Training Foundation, India"
     ],
     "certifications": [
+        "Electrical Safety at Work: SS-EN 50110-1 / EvA",
         "JIRA Product Management and Project Management (Great Learning)",
         "IBM DB2 Fundamentals (IBM)",
         "Fundamentals of Digital Marketing (Google)"

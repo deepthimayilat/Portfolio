@@ -12,7 +12,7 @@ class RecruitingPortfolioApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Deepthi Mayilat | Lead Portfolio',
+      title: 'Deepthi Mayilat | Portfolio',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
@@ -200,6 +200,34 @@ class _PortfolioDashboardState extends State<PortfolioDashboard> {
       const SizedBox(height: 20),
       ...((data['skills'] as Map).entries.map((entry) => SkillCategoryBlock(title: entry.key, skills: entry.value)).toList()),
       const SizedBox(height: 24),
+      // added newly
+      const SectionHeader(title: "Verified Credentials"),
+      const SizedBox(height: 16),
+      if (data['certifications'] != null)
+        Container(
+          width: double.infinity,
+          padding: const EdgeInsets.all(20),
+          decoration: BoxDecoration(color: const Color(0xFF1E293B), borderRadius: BorderRadius.circular(12)),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: (data['certifications'] as List).map((cert) => Padding(
+              padding: const EdgeInsets.only(bottom: 12.0),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const Padding(
+                    padding: EdgeInsets.only(top: 2.0),
+                    child: Icon(Icons.verified, size: 16, color: Color(0xFF10B981)),
+                  ),
+                  const SizedBox(width: 12),
+                  Expanded(child: Text(cert.toString(), style: const TextStyle(color: Colors.white, fontSize: 14, height: 1.4))),
+                ],
+              ),
+            )).toList(),
+          ),
+        ),
+      const SizedBox(height: 32),
+      // added newly
       const SectionHeader(title: "Education & Up-skilling"),
       const SizedBox(height: 16),
       Container(

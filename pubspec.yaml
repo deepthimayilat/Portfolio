@@ -1,5 +1,5 @@
-name: recruiter_catchy_portfolio
-description: A modern, high-conversion visual portfolio project for Deepthi Mayilat designed for recruiters.
+name: "talentstream_hub"
+description: "A modern, high-conversion visual portfolio project for Deepthi Mayilat designed for recruiters."
 version: 1.0.0+1
 environment:
   sdk: '>=3.0.0 <4.0.0'
