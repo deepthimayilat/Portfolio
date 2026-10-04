@@ -1,0 +1,33 @@
+name: Deploy Portfolio Live to Firebase Hosting
+on:
+  push:
+    branches:
+      - dev
+      - main
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Pull down your project files
+      - uses: actions/checkout@v4
+
+      # 2. Boot up the stable Flutter compiler environment
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+          cache: true
+
+      # 3. Pull package dependencies
+      - run: flutter pub get
+
+      # 4. Compile the application into high-performance web static assets
+      - run: flutter build web --release --web-renderer canvaskit
+
+      # 5. Push compiled artifacts live using your active Firebase login token
+      - name: Deploy to Firebase Hosting
+        uses: w9jds/firebase-action@v2.6.0
+        with:
+          args: deploy --only hosting
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
