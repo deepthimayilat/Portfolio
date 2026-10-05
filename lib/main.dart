@@ -216,7 +216,7 @@ class _PortfolioDashboardState extends State<PortfolioDashboard> {
     return [
       buildSummaryCard(),
       const SizedBox(height: 40),
-      const SectionHeader(title: "The Foundation"),
+      const SectionHeader(title: "Where I've Made an Impact"),
       const SizedBox(height: 20),
       if (data['experience'] != null)
         ...((data['experience'] as List).map((job) => ExperienceCard(job: job)).toList()),
