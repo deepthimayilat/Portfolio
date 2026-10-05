@@ -12,8 +12,7 @@
         "Embedded & IoT Hardware Testing": ["Hardware in the Loop (HIL)", "Firmware Flashing", "Embedded Diagnostics", "UART & Serial Debugging", "PuTTY", "Sensor Telemetry", "Machine-to-Cloud Validation", "Accelerated Life Testing"],
         "Test Tools": ["TestRail", "Cypress", "Xray", "YouTrack", "Postman", "SOAP UI", "TestFlight", "Simulators"],
         "DevOps & Platforms": ["GitHub", "Bitbucket", "IBM UrbanCode Deploy", "Gearset", "Octopus Deploy", "Salesforce", "ServiceNow", "Power BI", "Duck Creek", "MySQL"],
-        "Quality Assurance": ["Test Planning", "Test Case Design", "Defect Tracking", "Quality Metrics" , "Release Sign-off", "Functional Testing"],
-
+        "Quality Assurance": ["Test Planning", "Test Case Design", "Defect Tracking", "Quality Metrics" , "Release Sign-off", "Functional Testing"]
     },
     "experience": [
         {
@@ -68,7 +67,6 @@
             "bullets": [
                 "Delivered development, QA, documentation and project delivery for client Ingram Micro across finance, order to cash and procure to pay workstreams.",
                 "Built and maintained Mainframe applications in COBOL, CICS, JCL and IMS/DB2 and supported migration and release activities across India, the US and APAC."
-              
             ]
         }
     ],
