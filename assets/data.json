@@ -7,13 +7,88 @@
     "work_permit": "Authorised to work in Sweden (Immediate Availability)",
     "languages": "English (Fluent), Swedish (Beginner), Malayalam (Native), Tamil (Advanced), German (A2)",
     "summary": "Dynamic Tech Professional with 12 years of rich cross-functional experience bridging software development, rigorous QA validation, release management, and Agile delivery leadership. Currently executing end-to-end verification of IoT-enabled commercial systems inside an advanced R&D laboratory, specializing in Hardware-in-the-Loop (HIL) ecosystems, firmware flashing, and low-level embedded diagnostics. Combines an early 6-year background in deep technical Mainframe infrastructure development with modern web/mobile automation testing within strictly regulated medical device and financial domains.",
-    "skills": {
-        "Programming & Foundations": ["COBOL", "JCL", "CICS", "IMS/DB2", "VSAM", "JavaScript", "HTML5", "CSS3", "XML", "SQL", "Web Services" , "JSON" , "XSLT","Python", "Flutter/Dart"],
-        "Embedded & IoT Hardware Testing": ["Hardware in the Loop (HIL)", "Firmware Flashing", "Embedded Diagnostics", "UART & Serial Debugging", "PuTTY", "Sensor Telemetry", "Machine-to-Cloud Validation", "Accelerated Life Testing"],
-        "Test Tools": ["TestRail", "Cypress", "Xray", "YouTrack", "Postman", "SOAP UI", "TestFlight", "Simulators"],
-        "DevOps & Platforms": ["GitHub", "Bitbucket", "IBM UrbanCode Deploy", "Gearset", "Octopus Deploy", "Salesforce", "ServiceNow", "Power BI", "Duck Creek", "MySQL"],
-        "Quality Assurance": ["Test Planning", "Test Case Design", "Defect Tracking", "Quality Metrics" , "Release Sign-off", "Functional Testing"]
+        "skills": {
+        "Quality Assurance": [
+            "Functional testing",
+            "Regression testing",
+            "System testing",
+            "Integration testing",
+            "Endurance testing",
+            "UAT testing",
+            "Test case design",
+            "Specification review",
+            "Defect management",
+            "Root cause analysis",
+            "Release sign-off",
+            "Compliance with safety and regulatory frameworks"
+        ],
+        "R&D Laboratory/Embedded": [
+            "Temperature control",
+            "Heater validation",
+            "Water intake and drainage",
+            "Water and energy reduction targets",
+            "Chemical dosing accuracy",
+            "Motor and actuator behaviour",          
+            "Firmware flashing and regression",
+            "Board level Validation",
+            "Embedded diagnostics",
+            "Hardware in the Loop (HIL)",
+            "UART and serial debugging",
+            "Sensor telemetry",
+            "Machine to cloud validation"            
+        ],
+        "Processes and Improvement": [
+            "Process standardisation",
+            "Workflow automation",
+            "Defect pattern analysis",
+            "Release management",
+            "Agile Scrum",
+            "Incident and production support",
+            "Mentoring"
+        ],
+        "Tools": [
+            "JIRA",
+            "YouTrack",
+            "TestRail",
+            "ServiceNow",
+            "Salesforce",
+            "Power BI",
+            "GitHub",
+            "Bitbucket",
+            "IBM UrbanCode Deploy",
+            "Octopus Deploy",
+            "Gearset",
+            "Postman",
+            "SOAP UI",
+            "PuTTY",
+            "WindChill",
+            "Tera Term",
+            "Docklight"
+        ],
+        "Technical Background": [
+            "COBOL",
+            "JCL",
+            "CICS",
+            "IMS/DB2",
+            "SQL",
+            "JavaScript",
+            "React.js",
+            "HTML5",
+            "CSS3",
+            "Duckcreek",
+            "Python"
+           
+        ],
+        "Domains": [
+            "Medical devices/Healthcare",
+            "Laundry Systems",
+            "Insurance and finance",
+            "E-commerce(B2B/B2C)",
+            "Supply chain",
+            "Real estate"
+        ]
     },
+
     "experience": [
         {
             "role": "Software Test Engineer",
@@ -40,7 +115,7 @@
         },
         {
             "role": "Delivery Lead",
-            "company": "Winnopro Technologies (Remote)",
+            "company": "Winnopro Technologies",
             "location": "Germany",
             "period": "December 2020 - September 2022",
             "bullets": [
@@ -50,7 +125,7 @@
         },
         {
             "role": "Senior Software Developer",
-            "company": "Allstate",
+            "company": "Allstate India",
             "location": "India",
             "period": "September 2016 - October 2020",
             "bullets": [
