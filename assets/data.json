@@ -6,12 +6,14 @@
     "linkedin": "linkedin.com/in/deepthimayilat",
     "work_permit": "Authorised to work in Sweden (Immediate Availability)",
     "languages": "English (Fluent), Swedish (Beginner), Malayalam (Native), Tamil (Advanced), German (A2)",
-    "summary": "Dynamic Software Test Engineer with 12 years of rich cross-functional experience bridging software development, rigorous QA validation, release management, and Agile delivery leadership. Currently executing end-to-end verification of IoT-enabled commercial systems inside an advanced R&D laboratory, specializing in Hardware-in-the-Loop (HIL) ecosystems, firmware flashing, and low-level embedded diagnostics. Combines an early 6-year background in deep technical Mainframe infrastructure development with modern web/mobile automation testing within strictly regulated medical device and financial domains.",
+    "summary": "Dynamic Tech Professional with 12 years of rich cross-functional experience bridging software development, rigorous QA validation, release management, and Agile delivery leadership. Currently executing end-to-end verification of IoT-enabled commercial systems inside an advanced R&D laboratory, specializing in Hardware-in-the-Loop (HIL) ecosystems, firmware flashing, and low-level embedded diagnostics. Combines an early 6-year background in deep technical Mainframe infrastructure development with modern web/mobile automation testing within strictly regulated medical device and financial domains.",
     "skills": {
-        "Programming & Foundations": ["COBOL", "JCL", "CICS", "IMS/DB2", "VSAM", "JavaScript", "HTML5", "CSS3", "XML", "SQL"],
+        "Programming & Foundations": ["COBOL", "JCL", "CICS", "IMS/DB2", "VSAM", "JavaScript", "HTML5", "CSS3", "XML", "SQL", "Web Services" , "JSON" , "XSLT","Python", "Flutter/Dart"],
         "Embedded & IoT Hardware Testing": ["Hardware in the Loop (HIL)", "Firmware Flashing", "Embedded Diagnostics", "UART & Serial Debugging", "PuTTY", "Sensor Telemetry", "Machine-to-Cloud Validation", "Accelerated Life Testing"],
-        "Automation, Test & API Tools": ["TestRail", "Cypress", "Xray-JIRA", "YouTrack", "Postman", "SOAP UI", "TestFlight", "Simulators"],
-        "DevOps & Platforms": ["GitHub", "Bitbucket", "IBM UrbanCode Deploy", "Gearset", "Octopus Deploy", "Salesforce", "ServiceNow", "Power BI", "Duck Creek", "MySQL"]
+        "Test Tools": ["TestRail", "Cypress", "Xray", "YouTrack", "Postman", "SOAP UI", "TestFlight", "Simulators"],
+        "DevOps & Platforms": ["GitHub", "Bitbucket", "IBM UrbanCode Deploy", "Gearset", "Octopus Deploy", "Salesforce", "ServiceNow", "Power BI", "Duck Creek", "MySQL"],
+        "Quality Assurance": ["Test Planning", "Test Case Design", "Defect Tracking", "Quality Metrics" , "Release Sign-off", "Functional Testing"],
+
     },
     "experience": [
         {
