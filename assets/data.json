@@ -7,7 +7,7 @@
     "work_permit": "Authorised to work in Sweden (Immediate Availability)",
     "languages": "English (Fluent), Swedish (Beginner), Malayalam (Native), Tamil (Advanced), German (A2)",
     "summary": "Dynamic Tech Professional with 12 years of rich cross-functional experience bridging software development, rigorous QA validation, release management, and Agile delivery leadership. Currently executing end-to-end verification of IoT-enabled commercial systems inside an advanced R&D laboratory, specializing in Hardware-in-the-Loop (HIL) ecosystems, firmware flashing, and low-level embedded diagnostics. Combines an early 6-year background in deep technical Mainframe infrastructure development with modern web/mobile automation testing within strictly regulated medical device and financial domains.",
-        "skills": {
+    "skills": {
         "Quality Assurance": [
             "Functional testing",
             "Regression testing",
@@ -77,7 +77,6 @@
             "CSS3",
             "Duckcreek",
             "Python"
-           
         ],
         "Domains": [
             "Medical devices/Healthcare",
@@ -88,7 +87,6 @@
             "Real estate"
         ]
     },
-
     "experience": [
         {
             "role": "Software Test Engineer",
