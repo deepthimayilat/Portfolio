@@ -6,7 +6,7 @@
     "linkedin": "://linkedin.com",
     "work_permit": "Authorised to work in Sweden (Immediate Availability)",
     "languages": "English (Fluent), Swedish (Beginner), Malayalam (Native), Tamil (Advanced), German (A2)",
-    "summary": "Dynamic Tech Professional with 12 years of rich cross-functional experience bridging software development, rigorous QA validation, release management, and Agile delivery leadership. Currently executing end-to-end verification of IoT-enabled commercial systems inside an advanced R&D laboratory, specializing in Hardware-in-the-Loop (HIL) ecosystems, firmware flashing, and low-level embedded diagnostics. Combines an early 6-year background in deep technical Mainframe infrastructure development with modern web/mobile automation testing within strictly regulated medical device and financial domains.",
+    "summary": "Dynamic Tech Professional with 12 years of experience across software development, QA and test automation, release management and Agile delivery leadership. Current work covers end to end verification of IoT enabled commercial laundry systems in an R&D laboratory, including firmware testing, Hardware in the Loop testing and embedded diagnostics. Earlier career spans six years of hands on software development in Mainframe and web technologies, plus delivery leadership for web and mobile products. Experienced in regulated environments including medical devices and insurance. Fluent English, proven in multicultural and distributed teams, and looking to apply this engineering breadth in a development focused role.",
     "skills": {
         "Quality Assurance": [
             "Functional testing",
@@ -57,7 +57,7 @@
             "Incident and production support",
             "Mentoring"
         ],
-        "Tools": [
+        "Technical Toolkit": [
             "JIRA",
             "YouTrack",
             "TestRail",
@@ -161,14 +161,16 @@
         "Diploma in Computer Engineering — Nettur Technical Training Foundation, India"
     ],
     "certifications": [
-        "Electrical Safety at Work: SS-EN 50110-1 / EvA",
+        "Electrical Safety at Work: SS-EN 50110-1 / EvA (Sohlbergs)",
         "JIRA Product Management and Project Management (Great Learning)",
+        "Five Day Coding Challenge ( Code Institute)",
         "IBM DB2 Fundamentals (IBM)",
         "Fundamentals of Digital Marketing (Google)"
     ],
     "awards": [
         "ABCC (AnyBody Can Code) Winner - Mainframe Programming (Allstate India)",
-        "Quarterly Standing Ovation & Star of the Month (3x Recipient, Allstate India)",
-        "Eagle Team Award (L&T Infotech)"
-    ]
+        "Quarterly Standing Ovation (Allstate India)",
+        "Star of the Month (3x Recipient,Allstate India)",
+        "Eagle Team Award (L&T Infotech)",
+        "Best Final Year Project (Nettur Technical Training Foundation, India)"]
 }
