@@ -13,15 +13,13 @@
             "Regression testing",
             "System testing",
             "Integration testing",
-            "Endurance testing",
             "UAT testing",
             "Test case design",
             "Specification review",
             "Defect management",
             "Root cause analysis",
-            "Release sign-off",
-            "Compliance with safety and regulatory frameworks"
-        ],
+            "Release sign-off"
+                    ],
         "R&D Laboratory/Embedded": [
             "Temperature control",
             "Heater validation",
@@ -37,7 +35,20 @@
             "Sensor telemetry",
             "Machine to cloud validation"            
         ],
-        "Processes and Improvement": [
+        "Technology Stack": [
+            "COBOL",
+            "JCL",
+            "CICS Web Services",    
+            "IMS/DB2",
+            "MySQL",
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Duckcreek",
+            "Python",
+            "Flutter/Dart"
+        ],
+        "Technical Support": [
             "Process standardisation",
             "Workflow automation",
             "Defect pattern analysis",
@@ -65,20 +76,7 @@
             "Tera Term",
             "Docklight"
         ],
-        "Technical Background": [
-            "COBOL",
-            "JCL",
-            "CICS",
-            "IMS/DB2",
-            "SQL",
-            "JavaScript",
-            "React.js",
-            "HTML5",
-            "CSS3",
-            "Duckcreek",
-            "Python"
-        ],
-        "Domains": [
+            "Domains": [
             "Medical devices/Healthcare",
             "Laundry Systems",
             "Insurance and finance",
@@ -95,9 +93,9 @@
             "period": "June 2026 - Present",
             "bullets": [
                 "Execute end-to-end operational verification matrixes for mission-critical commercial appliance systems inside R&D lab spaces.",
-                "Validate fluid intake, advanced drainage cycles, and thermal profiles against strict energy reduction targets.",
-                "Execute rigorous firmware stability testing across machine control units, performing flashing, board-level configurations, and telemetry tracking.",
-                "Analyze deep telemetry logs, UART traces, and wireless transport layers to confirm absolute compliance with global cloud architectures."
+                "Validate water intake, advanced drainage cycles, and thermal profiles against strict energy reduction targets.",
+                "Execute rigorous firmware stability testing across machine control units, performing flashing, board-level configurations, and telemetry tracking."
+               
             ]
         },
         {
@@ -106,10 +104,10 @@
             "location": "Malmo, Sweden",
             "period": "January 2025 - June 2026",
             "bullets": [
-                "Led automated QA validation and complex production release paths for patient-handling medical hardware, ensuring compliance with global clinical safety rules.",
-                "Authored comprehensive regression, sanity, and UAT verification protocols across dedicated iOS systems and custom Salesforce backends.",
-                "Parsed intricate system crash logs and device telemetry vectors to debug hardware-software edge case inconsistencies."
-            ]
+                "Led automated QA validation and complex production release paths for patient-handling medical applications, ensuring compliance with global clinical safety rules.",
+                "Collaborated cross functionally with development and marketing teams",
+                "Authored comprehensive regression, sanity, and UAT verification protocols across dedicated iOS systems and custom Salesforce backends."
+            ]    
         },
         {
             "role": "Software Developer Intern",
@@ -119,20 +117,21 @@
             "bullets": [
                 "Contributed to the development and testing of Fyaril B2C and B2B theme-based e-commerce applications, improving overall user experience, performance, and quality.",
                 "Collaborated closely with UX/UI designers to transform wireframes and interactive prototypes into highly responsive, high-performing web applications.",
-                "Utilized CSS pre-processors like LESS to engineer scalable, clean, and maintainable production stylesheets.",
-                "Tested checkout flows and payment gateway integrations while conducting thorough QA code walkthroughs to support bug-free production rollouts."
+                "Utilized CSS pre-processors like LESS to engineer scalable, clean, and maintainable production stylesheets."
+                
             ]
         },
-        {
+      {
             "role": "Delivery Lead",
             "company": "Winnopro Technologies",
             "location": "Germany",
             "period": "December 2020 - September 2022",
             "bullets": [
-                "Managed high-velocity end-to-end delivery pipelines for multi-million user web and mobile products across sports, e-commerce, and healthcare sectors.",
-                "Directed cross-functional agile teams, engineered robust manual-to-automation test strategies, and facilitated client alignments globally."
+                "Directed cross functional teams across development, design, API testing and QA, and ran Agile Scrum ceremonies including sprint planning, backlog refinement, estimation and daily stand ups.",
+                "Delivered digital products for clients in the UK, US, South Africa, India and the Middle East, adapting solutions to different business and regulatory needs.",
+                "Led end to end delivery of web and mobile applications for global clients including Cricket South Africa, Palcare and HP across sports, e-commerce, healthcare and real estate."
             ]
-        },
+        },      
         {
             "role": "Senior Software Developer",
             "company": "Allstate India",
@@ -151,7 +150,8 @@
             "period": "June 2014 - September 2016",
             "bullets": [
                 "Delivered development, QA, documentation and project delivery for client Ingram Micro across finance, order to cash and procure to pay workstreams.",
-                "Built and maintained Mainframe applications in COBOL, CICS, JCL and IMS/DB2 and supported migration and release activities across India, the US and APAC."
+                "Built and maintained Mainframe applications in COBOL, CICS, JCL and IMS/DB2 and supported migration and release activities across India, the US and APAC.",
+                "Collaborated with cross functional teams across India, the US and APAC on migration and release activities."
             ]
         }
     ],
