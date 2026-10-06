@@ -336,7 +336,7 @@ final isLinkedin = icon == Icons.share || label.toLowerCase().contains("linkedin
 return InkWell(
 onTap: () {
 if (isLinkedin) {
-html.window.open('linkedin.com', '_blank');
+html.window.open('https://www.linkedin.com/in/deepthimayilat/', '_blank');
 }
 },
 borderRadius: BorderRadius.circular(30),
@@ -353,9 +353,9 @@ children: [
 Icon(icon, size: 14, color: const Color(0xFF38BDF8)),
 const SizedBox(width: 8),
 Text(
-label,
+ isLinkedin ? "LinkedIn Profile" : label,
 style: TextStyle(
-color: isLinkedin ? const Color(0xFF38BDF8) : Colors.white70,
+color: isLinkedin ?  const Color(0xFF38BDF8) : Colors.white70,
 fontSize: 13,
 fontWeight: FontWeight.w500,
 decoration: isLinkedin ? TextDecoration.underline : TextDecoration.none,
@@ -399,7 +399,20 @@ Text(job['company'] ?? '', style: const TextStyle(fontSize: 15, color: Color(0xF
 ],
 ),
 ),
-const SizedBox(width: 8),
+const SizedBox(width: 6),
+// Company location added
+if (job['location'] != null)
+                      Row(
+                        children: [
+                          const Icon(Icons.location_on_outlined, size: 13, color: Color(0xFF94A3B8)),
+                          const SizedBox(width: 4),
+                          Text(
+                            job['location'].toString(),
+                            style: const TextStyle(fontSize: 13, color: Color(0xFF94A3B8), fontWeight: FontWeight.w400),
+                          ),
+                        ],
+                      ),
+                      // end of company location
 Container(
 padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
 decoration: BoxDecoration(color: const Color(0xFF0F172A), borderRadius: BorderRadius.circular(12)),
