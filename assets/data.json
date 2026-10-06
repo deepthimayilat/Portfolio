@@ -91,7 +91,7 @@
         {
             "role": "Software Test Engineer",
             "company": "Electrolux Professional AB (via Maandag Nordic AB)",
-            "location": "Ljungby, Sweden",
+            "location": "Sweden",
             "period": "June 2026 - Present",
             "bullets": [
                 "Execute end-to-end operational verification matrixes for mission-critical commercial appliance systems inside R&D lab spaces.",
@@ -102,8 +102,8 @@
         },
         {
             "role": "QA Tester and Release Specialist",
-            "company": "Arjo AB, Sweden",
-            "location": "Malmo, Sweden",
+            "company": "Arjo AB",
+            "location": "Sweden",
             "period": "January 2025 - June 2026",
             "bullets": [
                 "Led automated QA validation and complex production release paths for patient-handling medical applications, ensuring compliance with global clinical safety rules.",
@@ -113,7 +113,7 @@
         },
         {
             "role": "Software Developer Intern",
-            "company": "Fyaril AB,Sweden",
+            "company": "Fyaril AB",
             "location": "Sweden",
             "period": "September 2024 - January 2025",
             "bullets": [
@@ -125,7 +125,7 @@
         },
       {
             "role": "Delivery Lead",
-            "company": "Winnopro Technologies, Germany",
+            "company": "Winnopro Technologies",
             "location": "Germany",
             "period": "December 2020 - September 2022",
             "bullets": [
@@ -136,7 +136,7 @@
         },      
         {
             "role": "Senior Software Developer",
-            "company": "Allstate, India",
+            "company": "Allstate India",
             "location": "India",
             "period": "September 2016 - October 2020",
             "bullets": [
@@ -147,7 +147,7 @@
         },
         {
             "role": "Software Associate",
-            "company": "L&T Infotech(LTIMindtree), India",
+            "company": "L&T Infotech(LTIMindtree)",
             "location": "India",
             "period": "June 2014 - September 2016",
             "bullets": [
