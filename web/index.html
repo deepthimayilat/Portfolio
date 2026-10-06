@@ -1,52 +1,38 @@
 <!DOCTYPE html>
 <html>
-<head>
-  
+<head>  
   <base href="$FLUTTER_BASE_HREF">
-
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
-
- 
+  <meta name="description" content="Portfolio of DM"> 
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="deepthi_hub_portfolio">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-
   <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <title>Bug & Logic By Deepthi Mayilat</title>
+  <title>Bug & Logic By DM</title>
   <link rel="manifest" href="manifest.json">
 </head>
-<body>
-  
-  <script src="flutter_bootstrap.js" async>
-  
+<body>  
+  <script src="flutter_bootstrap.js" async>  
   document.addEventListener('contextmenu', function (e) {
     e.preventDefault();
   });
-
   
   document.addEventListener('keydown', function (e) {
-    // Disable F12 Key
-    if (e.key === 'F12') {
+       if (e.key === 'F12') {
       e.preventDefault();
       return false;
     }
-    
-   
+       
     if ((e.ctrlKey || e.metaKey) && e.shiftKey && (e.key === 'I' || e.key === 'i')) {
       e.preventDefault();
       return false;
     }
-
     if ((e.ctrlKey || e.metaKey) && e.shiftKey && (e.key === 'J' || e.key === 'j')) {
       e.preventDefault();
       return false;
     }
-
   
     if ((e.ctrlKey || e.metaKey) && (e.key === 'U' || e.key === 'u')) {
       e.preventDefault();
@@ -54,6 +40,5 @@
     }
   });
 </script>
-
 </body>
 </html>
