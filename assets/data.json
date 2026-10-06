@@ -1,11 +1,11 @@
 {
     "name": "DEEPTHI MAYILAT",
-    "title": "Software Test Engineer | Software Developer | Release & Delivery Lead",
+    "title": "Software Developer",
     "location": "Lund, Sweden",
     "email": "deepthimayilat@gmail.com",
     "linkedin": "://linkedin.com",
     "work_permit": "Authorised to work in Sweden (Immediate Availability)",
-    "languages": "English (Fluent), Swedish (Beginner), Malayalam (Native), Tamil (Advanced), German (A2)",
+    "languages": "English (Fluent), Swedish (C), Malayalam (Native), Tamil (Advanced), German (A2)",
     "summary": "Dynamic Tech Professional with 12 years of experience across software development, QA and test automation, release management and Agile delivery leadership. Current work covers end to end verification of IoT enabled commercial laundry systems in an R&D laboratory, including firmware testing, Hardware in the Loop testing and embedded diagnostics. Earlier career spans six years of hands on software development in Mainframe and web technologies, plus delivery leadership for web and mobile products. Experienced in regulated environments including medical devices and insurance. Fluent English, proven in multicultural and distributed teams, and looking to apply this engineering breadth in a development focused role.",
     "skills": {
         "Quality Assurance": [
@@ -13,7 +13,7 @@
             "Regression testing",
             "System testing",
             "Integration testing",
-            "UAT testing",
+            "UAT",
             "Test case design",
             "Specification review",
             "Defect management",
@@ -32,8 +32,8 @@
             "Embedded diagnostics",
             "Hardware in the Loop (HIL)",
             "UART and serial debugging",
-            "Sensor telemetry",
-            "Machine to cloud validation"            
+            "Sensor telemetry"
+                        
         ],
         "Technology Stack": [
             "COBOL",
@@ -55,6 +55,7 @@
             "Release management",
             "Agile Scrum",
             "Incident and production support",
+            "Stakeholder Management",
             "Mentoring"
         ],
         "Technical Toolkit": [
@@ -72,7 +73,7 @@
             "Postman",
             "SOAP UI",
             "PuTTY",
-            "WindChill",
+            "Wind Term",
             "Tera Term",
             "Docklight"
         ],

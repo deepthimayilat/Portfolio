@@ -191,7 +191,7 @@ class _PortfolioDashboardState extends State<PortfolioDashboard> {
           const SizedBox(height: 12),
           Text(data['summary'] ?? '', style: Theme.of(context).textTheme.bodyLarge),
           const SizedBox(height: 16),
-          const Text("Languages Spoken", style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: Color(0xFF38BDF8))),
+          const Text("Languages", style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: Color(0xFF38BDF8))),
           const SizedBox(height: 6),
           Text(data['languages'] ?? '', style: const TextStyle(fontSize: 14, color: Color(0xFF94A3B8))),
         ],
